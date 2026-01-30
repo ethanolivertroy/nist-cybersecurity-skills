@@ -1,0 +1,102 @@
+{
+  "AC": {
+    "name": "Access Control",
+    "reference_file": "references/800-53/ac.md",
+    "control_range": "AC-1 through AC-25"
+  },
+  "AT": {
+    "name": "Awareness and Training",
+    "reference_file": "references/800-53/at.md",
+    "control_range": "AT-1 through AT-6"
+  },
+  "AU": {
+    "name": "Audit and Accountability",
+    "reference_file": "references/800-53/au.md",
+    "control_range": "AU-1 through AU-16"
+  },
+  "CA": {
+    "name": "Assessment, Authorization, and Monitoring",
+    "reference_file": "references/800-53/ca.md",
+    "control_range": "CA-1 through CA-9"
+  },
+  "CM": {
+    "name": "Configuration Management",
+    "reference_file": "references/800-53/cm.md",
+    "control_range": "CM-1 through CM-14"
+  },
+  "CP": {
+    "name": "Contingency Planning",
+    "reference_file": "references/800-53/cp.md",
+    "control_range": "CP-1 through CP-13"
+  },
+  "IA": {
+    "name": "Identification and Authentication",
+    "reference_file": "references/800-53/ia.md",
+    "control_range": "IA-1 through IA-13"
+  },
+  "IR": {
+    "name": "Incident Response",
+    "reference_file": "references/800-53/ir.md",
+    "control_range": "IR-1 through IR-10"
+  },
+  "MA": {
+    "name": "Maintenance",
+    "reference_file": "references/800-53/ma.md",
+    "control_range": "MA-1 through MA-7"
+  },
+  "MP": {
+    "name": "Media Protection",
+    "reference_file": "references/800-53/mp.md",
+    "control_range": "MP-1 through MP-8"
+  },
+  "PE": {
+    "name": "Physical and Environmental Protection",
+    "reference_file": "references/800-53/pe.md",
+    "control_range": "PE-1 through PE-23"
+  },
+  "PL": {
+    "name": "Planning",
+    "reference_file": "references/800-53/pl.md",
+    "control_range": "PL-1 through PL-11"
+  },
+  "PM": {
+    "name": "Program Management",
+    "reference_file": "references/800-53/pm.md",
+    "control_range": "PM-1 through PM-32"
+  },
+  "PS": {
+    "name": "Personnel Security",
+    "reference_file": "references/800-53/ps.md",
+    "control_range": "PS-1 through PS-9"
+  },
+  "PT": {
+    "name": "PII Processing and Transparency",
+    "reference_file": "references/800-53/pt.md",
+    "control_range": "PT-1 through PT-8"
+  },
+  "RA": {
+    "name": "Risk Assessment",
+    "reference_file": "references/800-53/ra.md",
+    "control_range": "RA-1 through RA-10"
+  },
+  "SA": {
+    "name": "System and Services Acquisition",
+    "reference_file": "references/800-53/sa.md",
+    "control_range": "SA-1 through SA-23"
+  },
+  "SC": {
+    "name": "System and Communications Protection",
+    "reference_file": "references/800-53/sc.md",
+    "control_range": "SC-1 through SC-51"
+  },
+  "SI": {
+    "name": "System and Information Integrity",
+    "reference_file": "references/800-53/si.md",
+    "control_range": "SI-1 through SI-23"
+  },
+  "SR": {
+    "name": "Supply Chain Risk Management",
+    "reference_file": "references/800-53/sr.md",
+    "control_range": "SR-1 through SR-12"
+  }
+}

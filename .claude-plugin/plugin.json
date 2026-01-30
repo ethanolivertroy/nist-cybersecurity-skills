@@ -1,0 +1,9 @@
+{
+  "name": "nist-cybersecurity-skills",
+  "version": "1.1.0",
+  "description": "Comprehensive NIST cybersecurity framework reference covering SP 800-53, 800-171, CSF 2.0, 800-53A, and related standards.",
+  "author": { "name": "ethanolivertroy" },
+  "repository": "https://github.com/ethanolivertroy/nist-cybersecurity-skills",
+  "license": "MIT",
+  "keywords": ["nist", "cybersecurity", "800-53", "800-171", "csf", "fedramp", "compliance", "security-controls"]
+}
